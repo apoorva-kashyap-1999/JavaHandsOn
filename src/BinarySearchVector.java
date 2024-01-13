@@ -1,4 +1,3 @@
-import java.awt.*;
 import java.util.*;
 public class BinarySearchVector {
     public static void main(String[] args){

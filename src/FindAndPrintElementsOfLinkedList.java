@@ -19,6 +19,7 @@ public class FindAndPrintElementsOfLinkedList {
             System.out.println(ll.get(j));
         }
         ll.clear();
-        System.out.println("Size of linked list after clear() is: "+ll.size());
+        int sizeOfLL= ll.size();
+        System.out.println("Size of linked list after clear() is: "+sizeOfLL);
     }
 }
